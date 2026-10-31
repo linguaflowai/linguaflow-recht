@@ -2,10 +2,10 @@ Datenschutzerklärung LinguaFlow AI
 Stand: 31.10.2026
 
 1. Verantwortlicher
-[Guido Liebschwager]
-[In der Tiefschley 6]
-[41517 Grevenbroich], Deutschland
-E-Mail: [linguaflowai@gmail.com]
+Guido Liebschwager
+In der Tiefschley 6
+41517 Grevenbroich, Deutschland
+E-Mail: linguaflowai@gmail.com
 
 2. Grundprinzip
 LinguaFlow AI betreibt keinen eigenen Server. Ich als Entwickler erhalte keine Lerndaten, keine Eingaben und keine API-Schlüssel. Alle Daten, die in der App entstehen, liegen auf deinem Gerät.
