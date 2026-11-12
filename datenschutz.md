@@ -1,5 +1,5 @@
 Datenschutzerklärung LinguaFlow AI
-Stand: 09.11.2026
+Stand: 12.11.2026
 
 1. Verantwortlicher
 Guido Liebschwager
@@ -8,7 +8,7 @@ In der Tiefschley 6
 E-Mail: linguaflowai@gmail.com
 
 2. Grundprinzip
-LinguaFlow AI betreibt keinen eigenen Server. Ich als Entwickler erhalte keine Lerndaten, keine Eingaben und keine API-Schlüssel. Alle Daten, die in der App entstehen, liegen auf deinem Gerät.
+LinguaFlow AI betreibt keinen eigenen Server. Ich als Entwickler erhalte keine Lerndaten, keine Eingaben, keine Sprachaufnahmen und keine API-Schlüssel. Alle Daten, die in der App entstehen, liegen auf deinem Gerät.
 
 3. Mindestalter
 Die App richtet sich nur an Personen ab 18 Jahren. Die KI-Anbieter, deren Dienste du mit deinem eigenen Schlüssel nutzt, verlangen dieses Mindestalter.
@@ -18,15 +18,18 @@ Die App richtet sich nur an Personen ab 18 Jahren. Die KI-Anbieter, deren Dienst
 - Gewählte Lernsprache, Niveau, Thema, Stimme und Darstellung (Dunkel, Hell, System)
 - Lernfortschritt, Karteikarten, Wochenübersicht
 - Belohnungsdaten (Punkte, Stufen, Missionen, Reise, Souvenirs, Haustier)
+- Aufnahmedatei des Aussprache-Tutors: Sie wird in einem privaten Zwischenspeicher der App abgelegt und von der App nicht selbst gelöscht. Sie bleibt dort, bis das System den Zwischenspeicher leert, du die App-Daten löschst oder die App deinstallierst.
 Du kannst diese Daten jederzeit löschen, indem du die App-Daten löschst oder die App deinstallierst.
 
 5. Übermittlung an KI-Dienste
-Für Aufgaben, Übersetzungen, Länderinformationen und den Hilfe-Chat sendet die App Anfragen direkt von deinem Gerät mit deinem eigenen Schlüssel an:
+Für Aufgaben, Übersetzungen, Länderinformationen, den Hilfe-Chat und den Aussprache-Tutor sendet die App Anfragen direkt von deinem Gerät mit deinem eigenen Schlüssel an:
 - Google (Gemini API), Hauptanbieter
-- Groq, Reserve bei Ländersperre, Tageslimit oder Fehler
-Gesendet werden der Anfragetext (zum Beispiel Sprache, Niveau, Thema, Land und deine Eingaben im Hilfe-Chat) sowie technische Verbindungsdaten wie deine IP-Adresse. Es gelten die Datenschutzbestimmungen und Nutzungsbedingungen des jeweiligen Anbieters. Diese Anbieter können Daten außerhalb der EU verarbeiten, auch in den USA.
-Wichtig bei Google: Wenn du einen kostenlosen Gemini-Schlüssel nutzt, können deine Eingaben und die Antworten nach den Bedingungen von Google zur Verbesserung der Produkte verwendet und von Menschen gelesen werden. Bei einem kostenpflichtigen Schlüssel gelten andere Regeln. Auch Groq verarbeitet Anfragen nach eigenen Regeln zur Aufbewahrung; Einzelheiten findest du in den Unterlagen des Anbieters.
-Bitte gib deshalb im Hilfe-Chat und in anderen Eingabefeldern keine persönlichen oder vertraulichen Angaben ein.
+- Groq, Reserve bei Ländersperre, Tageslimit oder Fehler (nur für Text, nicht für Sprachaufnahmen)
+Gesendet werden der Anfragetext (zum Beispiel Sprache, Niveau, Thema, Land und deine Eingaben im Hilfe-Chat) sowie technische Verbindungsdaten wie deine IP-Adresse.
+Aussprache-Tutor: Wenn du den Aussprache-Tutor nutzt, nimmt die App nach deiner Bestätigung mit dem Mikrofon deine Stimme auf (höchstens 12 Sekunden) und sendet diese Aufnahme zusammen mit dem Übungssatz an Google (Gemini API), damit die KI eine Einschätzung der Aussprache erstellt. Die Aufnahme wird nicht an Groq gesendet. Ohne Google-Schlüssel ist der Aussprache-Tutor nicht nutzbar. Die Einschätzung ist eine KI-Einschätzung und kann ungenau sein.
+Es gelten die Datenschutzbestimmungen und Nutzungsbedingungen des jeweiligen Anbieters. Diese Anbieter können Daten außerhalb der EU verarbeiten, auch in den USA.
+Wichtig bei Google: Wenn du einen kostenlosen Gemini-Schlüssel nutzt, können deine Eingaben, deine Sprachaufnahmen und die Antworten nach den Bedingungen von Google zur Verbesserung der Produkte verwendet und von Menschen gelesen werden. Bei einem kostenpflichtigen Schlüssel gelten andere Regeln. Auch Groq verarbeitet Anfragen nach eigenen Regeln zur Aufbewahrung; Einzelheiten findest du in den Unterlagen des Anbieters.
+Bitte gib deshalb im Hilfe-Chat, in anderen Eingabefeldern und bei Sprachaufnahmen keine persönlichen oder vertraulichen Angaben preis.
 Rechtsgrundlage: Art. 6 Abs. 1 lit. b DSGVO (Bereitstellung der von dir gewählten Funktion).
 
 6. Käufe über Google Play
