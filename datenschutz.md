@@ -18,7 +18,6 @@ Die App richtet sich nur an Personen ab 18 Jahren. Die KI-Anbieter, deren Dienst
 - Gewählte Lernsprache, Niveau, Thema, Stimme und Darstellung (Dunkel, Hell, System)
 - Lernfortschritt, Karteikarten, Wochenübersicht
 - Belohnungsdaten (Punkte, Stufen, Missionen, Reise, Souvenirs, Haustier)
-- Aufnahmedatei des Aussprache-Tutors: Sie wird in einem privaten Zwischenspeicher der App abgelegt und von der App nicht selbst gelöscht. Sie bleibt dort, bis das System den Zwischenspeicher leert, du die App-Daten löschst oder die App deinstallierst.
 Du kannst diese Daten jederzeit löschen, indem du die App-Daten löschst oder die App deinstallierst.
 
 5. Übermittlung an KI-Dienste
@@ -26,7 +25,7 @@ Für Aufgaben, Übersetzungen, Länderinformationen, den Hilfe-Chat und den Auss
 - Google (Gemini API), Hauptanbieter
 - Groq, Reserve bei Ländersperre, Tageslimit oder Fehler (nur für Text, nicht für Sprachaufnahmen)
 Gesendet werden der Anfragetext (zum Beispiel Sprache, Niveau, Thema, Land und deine Eingaben im Hilfe-Chat) sowie technische Verbindungsdaten wie deine IP-Adresse.
-Aussprache-Tutor: Wenn du den Aussprache-Tutor nutzt, nimmt die App nach deiner Bestätigung mit dem Mikrofon deine Stimme auf (höchstens 12 Sekunden) und sendet diese Aufnahme zusammen mit dem Übungssatz an Google (Gemini API), damit die KI eine Einschätzung der Aussprache erstellt. Die Aufnahme wird nicht an Groq gesendet. Ohne Google-Schlüssel ist der Aussprache-Tutor nicht nutzbar. Die Einschätzung ist eine KI-Einschätzung und kann ungenau sein.
+Aussprache-Tutor: Wenn du den Aussprache-Tutor nutzt, nimmt die App nach deiner Bestätigung mit dem Mikrofon deine Stimme auf (höchstens 12 Sekunden) und sendet diese Aufnahme zusammen mit dem Übungssatz an Google (Gemini API), damit die KI eine Einschätzung der Aussprache erstellt. Die Aufnahme wird nicht an Groq gesendet. Ohne Google-Schlüssel ist der Aussprache-Tutor nicht nutzbar. Die Einschätzung ist eine KI-Einschätzung und kann ungenau sein. Die App speichert die Aufnahme nicht für spätere Nutzung und löscht die temporäre Datei auf deinem Gerät nach der Auswertung. Wird eine Aufnahme vorzeitig abgebrochen, kann die temporäre Datei im privaten Zwischenspeicher der App bleiben, bis das System ihn leert, du die App-Daten löschst oder die App deinstallierst.
 Es gelten die Datenschutzbestimmungen und Nutzungsbedingungen des jeweiligen Anbieters. Diese Anbieter können Daten außerhalb der EU verarbeiten, auch in den USA.
 Wichtig bei Google: Wenn du einen kostenlosen Gemini-Schlüssel nutzt, können deine Eingaben, deine Sprachaufnahmen und die Antworten nach den Bedingungen von Google zur Verbesserung der Produkte verwendet und von Menschen gelesen werden. Bei einem kostenpflichtigen Schlüssel gelten andere Regeln. Auch Groq verarbeitet Anfragen nach eigenen Regeln zur Aufbewahrung; Einzelheiten findest du in den Unterlagen des Anbieters.
 Bitte gib deshalb im Hilfe-Chat, in anderen Eingabefeldern und bei Sprachaufnahmen keine persönlichen oder vertraulichen Angaben preis.
