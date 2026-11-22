@@ -6,7 +6,7 @@ Stand: 22.11.2026
 1. Verantwortlicher
 
 Guido Liebschwager
-In der Tiefschley 6 
+In der Tiefschley 6
 41517 Grevenbroich, Deutschland
 E-Mail: linguaflowai@gmail.com
 
