@@ -1,6 +1,6 @@
 # Datenschutzerklärung LinguaFlow AI
 
-Stand: 21.11.2026
+Stand: 23.11.2026
 
 ## 1. Verantwortlicher
 
@@ -15,7 +15,7 @@ LinguaFlow AI betreibt keinen eigenen Server. Ich als Entwickler erhalte keine L
 
 ## 3. Mindestalter
 
-Die App richtet sich nur an Personen ab 18 Jahren. Die KI-Anbieter, deren Dienste du mit deinem eigenen Schlüssel nutzt, verlangen dieses Mindestalter.
+Die App richtet sich nur an Personen ab 18 Jahren. Google verlangt für die Nutzung seiner Gemini-API, die du mit deinem eigenen Schlüssel nutzt, ein Mindestalter von 18 Jahren.
 
 ## 4. Daten, die nur auf deinem Gerät liegen
 
@@ -39,7 +39,11 @@ Gesendet werden der Anfragetext (zum Beispiel Sprache, Niveau, Thema und Land) s
 
 Es gelten die Datenschutzbestimmungen und Nutzungsbedingungen des jeweiligen Anbieters. Diese Anbieter können Daten außerhalb der EU verarbeiten, auch in den USA.
 
-**Wichtig bei Google:** Wenn du einen kostenlosen Gemini-Schlüssel nutzt, können deine Eingaben, deine Sprachaufnahmen und die Antworten nach den Bedingungen von Google zur Verbesserung der Produkte verwendet und von Menschen gelesen werden. Bei einem kostenpflichtigen Schlüssel gelten andere Regeln. Auch Groq verarbeitet Anfragen nach eigenen Regeln zur Aufbewahrung; Einzelheiten findest du in den Unterlagen des Anbieters.
+**Wichtig bei Google:** Welche Regeln für deine Eingaben und Sprachaufnahmen gelten, hängt vom Tarif deines Schlüssels und von deinem Land ab. Bei einem kostenlosen Schlüssel außerhalb des Europäischen Wirtschaftsraums (EWR) kann Google die Inhalte nach seinen Bedingungen zur Verbesserung seiner Produkte nutzen, und Menschen können sie lesen. Im EWR, in der Schweiz und im Vereinigten Königreich gelten laut Googles Bedingungen auch für kostenlose Schlüssel die Regeln des bezahlten Tarifs. Beim bezahlten Tarif nutzt Google Eingaben und Antworten nicht zur Verbesserung seiner Produkte, speichert sie aber für begrenzte Zeit, zum Beispiel zur Erkennung von Missbrauch. Die Daten können in jedem Land verarbeitet werden, in dem Google Standorte hat.
+
+Für den Schlüssel gelten außerdem Googles Bedingungen für die Gemini-API, unter anderem zu Tarif, Region und Zweck der Nutzung. Lies sie bei Google, bevor du den Schlüssel anlegst.
+
+**Groq:** Nach eigenen Angaben speichert Groq Eingaben und Ausgaben bei API-Anfragen standardmäßig nicht, kann sie aber vorübergehend protokollieren, zum Beispiel für die Fehlersuche oder gegen Missbrauch. Einzelheiten findest du in den Unterlagen des Anbieters.
 
 Bitte sprich deshalb bei Sprachaufnahmen nichts Privates ein und gib keine persönlichen oder vertraulichen Angaben preis.
 
