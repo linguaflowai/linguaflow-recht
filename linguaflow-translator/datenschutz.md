@@ -1,6 +1,7 @@
 # Datenschutzerklärung LinguaFlow Live Translator
 Stand: 22.11.2026
-1. Verantwortlicher: Guido Liebschwager<br>
+1. Verantwortlicher:
+Guido Liebschwager<br>
 In der Tiefschley 6<br>
 41517 Grevenbroich, Deutschland<br>
 E-Mail: linguaflowai@gmail.com
