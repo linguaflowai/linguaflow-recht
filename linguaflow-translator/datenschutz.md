@@ -1,6 +1,9 @@
 # Datenschutzerklärung LinguaFlow Live Translator
 Stand: 22.11.2026
-1. Verantwortlicher: [HIER DEINE KONTAKTDATEN AUS LINGUAFLOW-AI KOPIEREN]
+1. Verantwortlicher: Guido Liebschwager<br>
+In der Tiefschley 6<br>
+41517 Grevenbroich, Deutschland<br>
+E-Mail: linguaflowai@gmail.com
 2. Grundprinzip: Kein eigener Server; keine Speicherung von Texten, Eingaben oder API-Schlüsseln durch den Entwickler. Alles läuft lokal.
 3. Mindestalter: Ab 18 Jahren (vorgegeben durch die genutzten KI-Dienste).
 4. Lokale Daten: API-Schlüssel, Spracheinstellungen, Verlauf (bis 200 Einträge), Favoriten und Pro-Status verbleiben auf dem Gerät und können jederzeit gelöscht werden.
