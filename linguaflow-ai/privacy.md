@@ -1,6 +1,6 @@
 # Privacy Policy LinguaFlow AI
 
-Last updated: 21 November 2026
+Last updated: 23 November 2026
 
 This is an English translation of the German privacy policy (Datenschutzerklärung). If the two versions differ, the German version prevails.
 
@@ -17,7 +17,7 @@ LinguaFlow AI does not operate its own server. As the developer, I receive no le
 
 ## 3. Minimum age
 
-The app is intended only for people aged 18 or over. The AI providers whose services you use with your own key require this minimum age.
+The app is intended only for people aged 18 or over. Google requires a minimum age of 18 for the use of its Gemini API, which you use with your own key.
 
 ## 4. Data stored only on your device
 
@@ -41,7 +41,11 @@ The data sent consists of the request text (for example language, level, topic a
 
 The privacy policies and terms of use of the respective provider apply. These providers may process data outside the EU, including in the USA.
 
-**Important regarding Google:** If you use a free Gemini key, your inputs, your voice recordings and the responses may, under Google's terms, be used to improve its products and be read by humans. Different rules apply to a paid key. Groq also processes requests under its own retention rules; you can find details in the provider's documentation.
+**Important regarding Google:** Which rules apply to your inputs and voice recordings depends on the plan of your key and on your country. With a free key outside the European Economic Area (EEA), Google may, under its terms, use the content to improve its products, and humans may read it. In the EEA, Switzerland and the United Kingdom, Google's terms state that the rules of the paid plan apply to free keys as well. With the paid plan, Google does not use inputs and responses to improve its products, but stores them for a limited time, for example to detect abuse. The data may be processed in any country in which Google has facilities.
+
+Google's Gemini API terms also apply to your key, among other things regarding plan, region and purpose of use. Please read them at Google before you create the key.
+
+**Groq:** According to its own information, Groq does not store inputs and outputs of API requests by default, but may log them temporarily, for example for troubleshooting or to prevent abuse. You can find details in the provider's documentation.
 
 Therefore, please do not record anything private in voice recordings and do not disclose personal or confidential information.
 
